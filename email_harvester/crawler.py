@@ -29,6 +29,7 @@ __author__='''
 # Import Module
 import urllib2
 import re
+import sys
 
 # Configuration
 html_dump = "tempdump"  # Temp File Name
@@ -57,7 +58,10 @@ def main(url):
     return page
 temp = open(html_dump, 'a')     # Open Temp File
 
-for i in link(main('https://bitforestinfo.blogspot.com')):   # enter you website address in place of https://bitforestinfo.blogspot.com  
+if len(sys.argv)==1:
+	print "[+] Please Enter Website Address As Argument"
+	exit(0)
+for i in link(main(sys.argv[1])):   # enter you website address  
 	temp.write(main(i))        # Write Data On File
 
 temp.close()                    # Closing File
