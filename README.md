@@ -1,60 +1,23 @@
-# Simple email_harvester
-
-# Website Crawler For Email Harvesting
-
-# ---------------- READ ME ---------------------------------------------
-
-# This Script is Created Only For Practise And Educational Purpose Only
-
-# This Script Is Created For https://bitforestinfo.blogspot.in
-
-# This Script is Written By
-
-# Development.
-
-__author__='''
-
-######################################################
-                By S.S.B Group                          
-######################################################
-
-    Suraj Singh
-    Admin
-    S.S.B Group
-    surajsinghbisht054@gmail.com
-    https://bitforestinfo.blogspot.in/
-
-    Note: We Feel Proud To Be Indian
-######################################################
+# Simple email_harvester, Website Crawler For Email Harvesting
 
 
-Want to Contribute? Great!
+<div style="box-shadow: 0 5px 18px rgba(0, 0, 0, 0.6);">
+
+<a href="https://surajsinghbisht054.blogspot.com" target="_blank">
+
+![author_profile](https://1.bp.blogspot.com/-PX4oBdjyb14/XbOCqgWpATI/AAAAAAAAELo/-jSsyNSMHmkXGXtw9qCT68qiUNqDE2NcACNcBGAsYHQ/s400/logo.png)
+
+</a>
+
+<p> author : surajsinghbisht054@gmail.com </p>
+
+</div>
 
 
-There Are 2 Methods.
-
-1. Pull Request ( Github Account Required ).
-
-2. Through Email.
-
-
-### 1. Pull Request ( Github A/c Required ). 
-
-1. Fork it!
-
-2. Create your feature branch: `git checkout -b my-new-feature`
-
-3. Commit your changes: `git commit -am 'Add some feature'`
-
-4. Push to the branch: `git push origin my-new-feature`
-
-5. Submit a pull request :D
 
 
 
 ### 2. Through Email.
-
-1. Send Your Updated Version On My Email.
 
 - surajsinghbisht054@gmail.com
 
